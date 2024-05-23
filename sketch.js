@@ -56,8 +56,7 @@ function draw() {
   verificaColisaoRaquete(xRaqueteOponente, yRaqueteOponente)
  incluiPlacar(); 
   marcaPonto();
-  
- 
+
   
  
 }
